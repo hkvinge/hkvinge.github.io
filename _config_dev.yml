@@ -25,8 +25,10 @@ github_username:  hkvinge
 # Build settings
 markdown: kramdown
 theme: minima
+remote_theme: "mmistakes/minimal-mistakes"
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
