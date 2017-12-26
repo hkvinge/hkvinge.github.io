@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Henry Kvinge"
+title                    : "Website of Henry Kvinge"
 title_separator          : "-"
 name                     : "Henry Kvinge"
 description              : "The website of Henry Kvinge."
-url                      : #"https://hkvinge.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+url                      : "https://hkvinge.github.io"
+baseurl                  : ""
+repository               : "hkvinge/hkvinge.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -237,7 +237,7 @@ defaults:
   # _posts
   - scope:
       path: ""
-      type: posts
+      type: #posts
     values:
       layout: single
       author_profile: true
