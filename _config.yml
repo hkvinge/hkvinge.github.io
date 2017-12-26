@@ -38,7 +38,7 @@ staticman:
   path                   : "docs/_data/comments/{options.slug}" # "/_data/comments/{options.slug}" (default)
   requiredFields         : ['name', 'email', 'message']
   transforms:
-    email                : "md5"
+    email                : "henry.kvinge@colostat.edu"
   generatedFields:
     date:
       type               : "date"
