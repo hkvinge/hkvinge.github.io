@@ -24,7 +24,7 @@ linkedin_username: www.linkedin.com/in/henry-kvinge-5107a718
 
 # Build settings
 markdown: kramdown
-theme: minimal
+theme: minima
 plugins:
   - jekyll-feed
 
