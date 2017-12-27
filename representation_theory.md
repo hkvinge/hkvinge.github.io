@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Representation theory and algebraic combinatorics
+title: Rep. theory and combinatorics
 permalink: /rep_theory/
 ---
 
