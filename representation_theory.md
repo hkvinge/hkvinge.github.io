@@ -3,9 +3,7 @@ layout: page
 title: Rep. theory and combinatorics
 permalink: /rep_theory/
 ---
-<p align="centr">
-  <img src="diagramimage2.tiff">
-</p>
+![Heisenberg category_eq](diagramimage3.png)
 
 I work on problems related to representation theory, algebraic Lie theory, algebraic combinatorics, and categorification. These days I am especially interested in:
 
