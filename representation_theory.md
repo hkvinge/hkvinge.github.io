@@ -3,8 +3,9 @@ layout: page
 title: Rep. theory and combinatorics
 permalink: /rep_theory/
 ---
-
-![alt text](diagramimage2.tiff)
+<p align="centr">
+  <img src="diagramimage3.png">
+</p>
 
 I work on problems related to representation theory, algebraic Lie theory, algebraic combinatorics, and categorification. These days I am especially interested in:
 
