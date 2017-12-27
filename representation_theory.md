@@ -4,6 +4,8 @@ title: Rep. theory and combinatorics
 permalink: /rep_theory/
 ---
 
+![alt text](diagramimage2.tiff)
+
 I work on problems related to representation theory, algebraic Lie theory, algebraic combinatorics, and categorification. These days I am especially interested in:
 
 * Symmetric groups and related Hecke algebras,
