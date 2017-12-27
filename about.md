@@ -3,16 +3,10 @@ layout: page
 title: About
 permalink: /about/
 ---
+I am a postdoctoral fellow in the Department of Mathematics at Colorado State University where I work with the [Pattern Analysis Lab](https://sites.google.com/a/rams.colostate.edu/pattern-analysis-lab/). I graduated with a PhD in mathematics from UC Davis in June 2017. My advior was [Monica Vazirani](https://www.math.ucdavis.edu/~vazirani/).
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+As a graduate student I worked on problems related to representation theory, algebraic combinatorics, and categorification. While I still do work in these subjects I now also work on problems related to geometric data analysis and machine learning. 
 
 
-[jekyll-organization]: https://github.com/jekyll
+
+
