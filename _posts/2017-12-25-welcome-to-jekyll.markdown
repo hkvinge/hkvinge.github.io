@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Henry Kvinge's Website"
 date:   2017-12-25 22:15:30 -0700
 categories: jekyll update
 ---
