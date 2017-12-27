@@ -19,8 +19,8 @@ description: >- # this means to ignore newlines until "baseurl:"
     The professional website of Henry Kvinge - Representation theory, algebraic combinatorics, geometric data analysis, and machine learning.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://hkvinge.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: 
 github_username:  hkvinge
+linkedin_username: www.linkedin.com/in/henry-kvinge-5107a718
 
 # Build settings
 markdown: kramdown
