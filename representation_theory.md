@@ -14,7 +14,7 @@ I work on problems related to representation theory, algebraic Lie theory, algeb
  
 My papers include:
 
-1. **The center of the twisted Heisenberg category, factorial Schur Q-functions, and transition functions on the Schur graph** (with Can Ozan Oguz and Michael Reeks) [ArXiv:1712.09626](https://arxiv.org/abs/1712.09626).
+1. **The center of the twisted Heisenberg category, factorial Schur Q-functions, and transition functions on the Schur graph** (with Can Ozan Oguz and Michael Reeks) [arXiv:1712.09626](https://arxiv.org/abs/1712.09626).
 
 2. **Khovanov's Heisenberg category, moments in free probability, and shifted symmetric functions** (with Anthony Licata an Stuart Mitchell), Submitted ([arXiv:1610.04571](https://arxiv.org/abs/1610.04571)).<br/><br/>Extended abstract in Sem. Lothar. Combin. 78B (2017), Art. 63, 12pp (Conference proceedings from FPSAC 2017).
 
