@@ -1,0 +1,12 @@
+---
+layout: post
+title: "New paper: Endmember extraction on the Grassmannian"
+data: 2018-05-07 21:00:00
+categories: jekyll update
+---
+
+Elin Farnell, Michael Kirby, Chris Peterson, and I just got word that our paper "Endmember extraction on the Grassmannian" has been accepted to the IEEE Data Science Workshop in Lausanne, Switzerland. Endmember extraction is the process taking a collection of data points and calculating its pure elements, of which all other points are simply a linear combination. Mathematically we can think of this process as *(a)* taking the convex hull of the point cloud (which will be a polytope) and *(b)* finding the points that given the vertices of this polytope. These *endmembers* are notable points that should be examined. 
+
+The usual setting (and the one we had in mind for this paper) is hyperspectral imagery. In this setting, one can consider each of the vectors of spectral information associated to a pixel in the hyperspectral data cube as a data point. In general, the spectral signal at any given pixel will be a combination of spectral information from a number of substances. Endmember extraction then allows us to disentangle the data points corresponding to "pure" substances from those corresponding to mixtures of substances.
+
+However, it often makes sense to consider a few different signals to belong to the same class. For example, we may want a class corresponding to "forest". Signals coming from "forest" will be a mixture of different kinds of trees. One way to represent this variability is as a subspace spanned by several different vectors. In that case your points no longer live in Euclidean space but rather on the Grassmannian. In our paper we present an algorithm which uses the geometry of the Grassmannian to extract endmembers corresponding to subspaces.   
