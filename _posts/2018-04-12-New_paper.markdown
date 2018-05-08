@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "New paper: A GPU-oriented algorithm design for secant-based dimensionality reduction"
+date:   2018-4-11 22:15:30 -0700
+categories: jekyll update
+---
+
+We just learned that our paper *A GPU-oriented algorithm design for secant-based dimensionality reduction* has been accepted to the 17th IEEE International Symposium on Parallel and Distributed Computing. This is exciting as we want to push the ideas in this paper much further, and feedback from experts in parallel computing will be extremely useful. 
+
+The basic idea is that given a high-dimensional dataset, one should try to find projections (onto a lower dimensional space) which preserve the length of secants connecting different data points as much as possible (this by the way is related to the constructive proof of Whitney's embedding theorem). Intuitively this makes sense, a good data reduction should not tell me that two data points are very similar (close) when in reality they are not. The problem is that the number of secants for a set of *n* data points is *n(n-1)/2*, which of course is quite large for even a moderately sized data set. Even just computing each of the secants can be a lengthy process. Our algorithm takes advantage of the parallelism to make the process of finding a "good" projection much faster. 
+
+The paper will appear in the Proceedings of the 17th IEEE International Symposium on Parallel and Distributed Computing.
