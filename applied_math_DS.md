@@ -8,9 +8,11 @@ I am interested in geometric and topological data analysis, machine learning, co
 
 My papers include:
 
-1. **A GPU-oriented algorithm design for secant-based dimensionality reduction** (with Elin Farnell, Michael Kirby, and Chris Peterson) to appear in the Proceedings of the 17th IEEE International Symposium on Parallel and Distributed Computing (link coming soon).
+3. **Too many seants: Too many secants: a hierarchical approach to secant-based dimensionality reduction on large data sets** (with Elin Farnell, Michael Kirby, and Chris Peterson) (submitted).
 
-2. **Endmember extraction on the Grassmannian** (with Elin Farnell, Michael Kirby, and Chris Peterson) to appear in the Proceedings of the 2018 IEEE Data Science Workshop.
+2. **A GPU-oriented algorithm design for secant-based dimensionality reduction** (with Elin Farnell, Michael Kirby, and Chris Peterson) to appear in the Proceedings of the 17th IEEE International Symposium on Parallel and Distributed Computing (link coming soon).
+
+1. **Endmember extraction on the Grassmannian** (with Elin Farnell, Michael Kirby, and Chris Peterson) to appear in the Proceedings of the 2018 IEEE Data Science Workshop.
 
 In progress:
 
