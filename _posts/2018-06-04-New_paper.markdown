@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Too many secants: a hierarchical approach to secant-based dimensionality reduction on large data sets"
+title: "New Paper: Too many secants: a hierarchical approach to secant-based dimensionality reduction on large data sets"
 data: 2018-06-04 21:00:00
 categories: jekyll update
 ---
