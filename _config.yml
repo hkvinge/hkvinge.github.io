@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Henry Kvinge
-email: henry.kvinge@colostate.edu
+email: henry.kvinge@colostate.edu, [CV](HKvingeCV.pdf)
 description: >- # this means to ignore newlines until "baseurl:"
     The professional website for Henry Kvinge - mathematics postdoctoral fellow at Colorado State University interested in representation theory, algebraic combinatorics, geometric data analysis, and machine learning.
 baseurl: "" # the subpath of your site, e.g. /blog
