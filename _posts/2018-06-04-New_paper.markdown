@@ -7,6 +7,6 @@ categories: jekyll update
 
 One of the major obstacles to secant-based dimensionality reduction methods is that even for a moderately large data set, the number of secants can be quite large (for *n* points, there will be *n(n-1)/2* secants). One option of how to deal with very large secant sets is to subsample. In many cases this seems to work fairly well. On the other hand, one can always worry that one might be missing structure in the data set which is important but not well represented (imagine a case where we have a disporportionately small number of labeled points of a certain class for a labeled data set). In a paper just submitted with Elin Farnell, Michael Kirby, and Chris Peterson, we suggest a method of doing secant-based dimensionality reduction that avoids this pitfall by utilizing the hierarchical structure of the data. Specifically, we first cluster the data and generate linear approximations of each cluster. Next we choose a few points in each cluster and generate all secants *between points in different clusters* corresponding to these subsets. We then give an algorithm for finding a projection that preserves both the linear approximations and our secants between clusters.  
 
-
+Update (06-25-2018): This paper has been accepted for a talk at the IEEE High Performance Extreme Computing Conference in Boston in Septemeber!
 
  
