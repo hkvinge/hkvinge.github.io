@@ -11,4 +11,4 @@ The usual setting (and the one we had in mind for this paper) is hyperspectral i
 
 However, it often makes sense to consider a few different signals as belonging to the same class. For example, we may want a class corresponding to "forest". Signals coming from "forest" will actually consist of a mixture of signals from different kinds of trees. One way to represent this variability is to take points to be subspaces spanned by several different vectors. In that case your points no longer live in Euclidean space but rather on a Grassmann manifold. In our paper we present an algorithm which uses the geometry of Grassmannians to extract endmembers corresponding to subspaces.  
 
- 
+[ArXiv version.](https://arxiv.org/abs/1807.01401) 
