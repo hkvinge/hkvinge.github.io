@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Math 417 Fall 2018
-permalink: /teaching/math417fall
+permalink: /teaching/math417fall/
 ---
 
 **Math 417: Advanced Calculus I**
