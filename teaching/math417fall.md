@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Math 417 Fall 2018
 permalink: /teaching/math417fall/
 ---
