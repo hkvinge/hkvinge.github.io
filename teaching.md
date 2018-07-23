@@ -6,4 +6,4 @@ permalink: /teaching/
 
 # Fall 2018
 
-[Math 417](teaching/math417fall2018.html)
+[Math 417](math417fall2018.html)
