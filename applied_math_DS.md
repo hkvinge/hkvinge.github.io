@@ -25,7 +25,7 @@ My papers include:
 
 | ![](IP_Grassmannian_embedding.png) |
 |:--:|
-| *Right: The projection (using the SAP algorithm from the paper above) of a collection of points corresponding to images of a plastic pumpkin with various illuminations, to 3-dimensions. (Left and middle) The images corresponding to the two extreme points circled in red. The parabola traced out by the data in 3-dimensions corresponds to changes in illumination as the light source smoothly changes position.* | 
+| *Right: (Left) Ground truth labels for the Indian Pines dataset. The yellow dots indicate points that our algorithm identified as endmembers of the image. In other words, the yellow points would correspond to extreme points in the 3-dimensional projection of spectral curves from the hyperspectral image from the Grassmann manifold G(9,200) to 3-dimensional Euclidean space .* | 
 
 
 In progress:
