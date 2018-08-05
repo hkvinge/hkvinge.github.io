@@ -17,7 +17,7 @@ My papers include:
 
 2. **A GPU-oriented algorithm design for secant-based dimensionality reduction** (with Elin Farnell, Michael Kirby, and Chris Peterson) to appear in the Proceedings of the 17th IEEE International Symposium on Parallel and Distributed Computing. [ArXiv version](https://arxiv.org/abs/1807.03425)
 
-| ![pumpkin illumination pictures and their projection](double_pumpkin_projection.png =100x20) |
+| ![pumpkin illumination pictures and their projection](double_pumpkin_projection.png) |
 |:--:|
 | *Right: The projection (using the SAP algorithm from the paper above) of a collection of points corresponding to images of a plastic pumpkin with various illuminations, to 3-dimensions. (Left and middle) The images corresponding to the two extreme points circled in red. The parabola traced out by the data in 3-dimensions corresponds to changes in illumination as the light source smoothly changes position.* | 
 
