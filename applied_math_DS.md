@@ -17,7 +17,7 @@ My papers include:
 
 2. **A GPU-oriented algorithm design for secant-based dimensionality reduction** (with Elin Farnell, Michael Kirby, and Chris Peterson) to appear in the Proceedings of the 17th IEEE International Symposium on Parallel and Distributed Computing. [ArXiv version](https://arxiv.org/abs/1807.03425)
 
-| ![pumpkin illumination pictures and their projection](double_pumpkin_projection.png) |
+| ![pumpkin illumination pictures and their projection](double_pumpkin_projection.png =100x20) |
 |:--:|
 | *Right: The projection (using the SAP algorithm from the paper above) of a collection of points corresponding to images of a plastic pumpkin with various illuminations, to 3-dimensions. (Left and middle) The images corresponding to the two extreme points circled in red. The parabola traced out by the data in 3-dimensions corresponds to changes in illumination as the light source smoothly changes position.* | 
 
@@ -25,7 +25,7 @@ My papers include:
 
 | ![Indian_pines_endmembers](IP_Grassmannian_embedding.png) |
 |:--:|
-| *Right: (Left) Ground truth labels for the Indian Pines dataset. The yellow dots indicate points that our algorithm identified as endmembers of the image. In other words, the yellow points would correspond to extreme points in the 3-dimensional projection of spectral curves from the hyperspectral image from the Grassmann manifold G(9,200) to Euclidean space (a projection down to 3-dimensional Euclidean space is shown at right.* | 
+| *Right: (Left) Ground truth labels for the Indian Pines dataset. The yellow dots indicate points that our algorithm identified as endmembers of the image. In other words, the yellow points would correspond to extreme points in the 3-dimensional projection of spectral curves from the hyperspectral image from the Grassmann manifold G(9,200) to Euclidean space (a projection down to 3-dimensional Euclidean space is shown at right).* | 
 
 
 In progress:
