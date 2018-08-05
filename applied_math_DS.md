@@ -12,7 +12,8 @@ My papers include:
 
 2. **A GPU-oriented algorithm design for secant-based dimensionality reduction** (with Elin Farnell, Michael Kirby, and Chris Peterson) to appear in the Proceedings of the 17th IEEE International Symposium on Parallel and Distributed Computing. [ArXiv version](https://arxiv.org/abs/1807.03425)
 
-![pumpkin illumination pictures and their projection][double_pumpkin_projection.png]
+![pumpkin illumination pictures and their projection](double_pumpkin_projection.png)
+
 1. **Endmember extraction on the Grassmannian** (with Elin Farnell, Michael Kirby, and Chris Peterson) to appear in the Proceedings of the 2018 IEEE Data Science Workshop. [ArXiv version](https://arxiv.org/abs/1807.01401)
 
 In progress:
