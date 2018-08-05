@@ -29,7 +29,7 @@ My papers include:
 
 | ![Indian_pines_endmembers](IP_Grassmannian_embedding.png) |
 |:--:|
-| *Right: (Left) Ground truth labels for the Indian Pines dataset. The yellow dots indicate points that our algorithm identified as endmembers of the image. In other words, the yellow points would correspond to extreme points in the 3-dimensional projection of spectral curves from the hyperspectral image from the Grassmann manifold G(9,200) to Euclidean space (a projection down to 3-dimensional Euclidean space is shown at right).* | 
+| *Right: (Left) Ground truth labels for the Indian Pines dataset. The yellow dots indicate points that our algorithm identified as endmembers of the image. In other words, the yellow points would correspond to extreme points in the image of the MDS mapping of subspaces spanned by spectral curves in the Grassmann manifold G(9,200) to Euclidean space (a projection down to 3-dimensional Euclidean space is shown at right).* | 
 
 
 In progress:
