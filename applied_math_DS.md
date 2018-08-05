@@ -14,7 +14,7 @@ My papers include:
 
 | ![pumpkin illumination pictures and their projection](double_pumpkin_projection.png) |
 |:--:|
-| *Right: The projection (using the SAP algorithm from the paper above) of a collection of points corresponding to images of a plastic pumpkin with various illuminations, to 3-dimensions.* | 
+| *Right: The projection (using the SAP algorithm from the paper above) of a collection of points corresponding to images of a plastic pumpkin with various illuminations, to 3-dimensions. (Left and middle) The images corresponding to the two extreme points circled in red. The parabola traced out by the data in 3-dimensions corresponds to changes in illumination as the light source smoothly changes position.* | 
 
 1. **Endmember extraction on the Grassmannian** (with Elin Farnell, Michael Kirby, and Chris Peterson) to appear in the Proceedings of the 2018 IEEE Data Science Workshop. [ArXiv version](https://arxiv.org/abs/1807.01401)
 
