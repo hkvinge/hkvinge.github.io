@@ -23,7 +23,7 @@ My papers include:
 
 1. **Endmember extraction on the Grassmannian** (with Elin Farnell, Michael Kirby, and Chris Peterson) to appear in the Proceedings of the 2018 IEEE Data Science Workshop. [ArXiv version](https://arxiv.org/abs/1807.01401)
 
-| ![](IP_Grassmannian_embedding.png) |
+| ![Indian_pines_endmembers](IP_Grassmannian_embedding.png) |
 |:--:|
 | *Right: (Left) Ground truth labels for the Indian Pines dataset. The yellow dots indicate points that our algorithm identified as endmembers of the image. In other words, the yellow points would correspond to extreme points in the 3-dimensional projection of spectral curves from the hyperspectral image from the Grassmann manifold G(9,200) to 3-dimensional Euclidean space .* | 
 
