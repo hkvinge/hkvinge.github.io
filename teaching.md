@@ -14,4 +14,4 @@ Math 145 - Combinatorics (At UC Davis)
 
 # Winter 2015
 
-Math 17B - Calculus for Biology and Medicine (Math 17B)
+Math 17B - Calculus for Biology and Medicine (At UC Davis)
