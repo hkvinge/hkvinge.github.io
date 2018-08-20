@@ -5,4 +5,5 @@ data: 2018-08-20 11:00:00
 categories: jekyll update
 ---
 
-Elin Farnell, Michael Kirby, Chris Peterson, and I just submitted a new paper in our sequence on secant-based dimensionality reduction. Rather than focusing on dimensionality reduction itself, in this paper we 
+Elin Farnell, Michael Kirby, Chris Peterson, and I just submitted a new paper in our sequence on secant-based dimensionality reduction. Rather than focusing on dimensionality reduction itself, in this paper we look at how the effectiveness of secant-based dimensionality reduction can provide useful statistics about a data set. Specifically, in both the secant-based dimensionality reduction algorithms that we have developed,
+one component of the output is the secant whose length is least well preserved by the output projection.
