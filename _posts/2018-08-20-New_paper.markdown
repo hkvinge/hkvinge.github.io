@@ -1,0 +1,8 @@
+---
+layout: post
+title: "New paper: Monitoring the shape of weather, soundscapes, and dynamical systems: A new statistic for dimension-driven data analysis on large data sets"
+data: 2018-08-20 11:00:00
+categories: jekyll update
+---
+
+Elin Farnell, Michael Kirby, Chris Peterson, and I just submitted a new paper in our sequence on secant-based dimensionality reduction. Rather than focusing on dimensionality reduction itself, in this paper we 
