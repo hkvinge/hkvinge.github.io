@@ -12,4 +12,5 @@ Note that because we assume that all secants have been normalized prior to proje
 On the other hand, if the data is of dimension somewhat less than k (how much less depends on the manifold on which the data set sits) then the corresponding kappa-value should be relatively larger (say larger than .2). 
 
 By calculating the kappa-values for a range of dimensions we can construct a kappa-profile of the data. 
-In our paper we show how we can use this statistic to better understand large data sets. We are particularly interested using the kappa-profile to monitor large data sets that are changing. For example, we show that changes in kappa-profile (and in fact dimension) for a weather data set my indicate the approach of a major weather event. We also calculate kappa-profiles for soundscapes as well as data collected from the Kuramoto-Sivashinsky equation. 
+In our paper we show how we can use this statistic to better understand large data sets. 
+We are particularly interested in using the kappa-profile to monitor large data sets that are changing. For example, we show that changes in kappa-profile (and in fact dimension) for a weather data set my indicate the approach of a major weather event. We also calculate kappa-profiles for soundscapes as well as data collected from the Kuramoto-Sivashinsky equation. 
