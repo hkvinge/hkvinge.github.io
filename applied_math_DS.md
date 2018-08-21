@@ -8,10 +8,11 @@ I am interested in geometric and topological data analysis, machine learning, co
 
 My papers include:
 
-3. **Too many secants: Too many secants: a hierarchical approach to secant-based dimensionality reduction on large data sets** (with Elin Farnell, Michael Kirby, and Chris Peterson) accepted to IEEE High Performance Extreme Computing Conference September 2018 (link coming soon).
+1. **Monitoring the shape of weather, soundscapes, and dynamical systems: a new statistic for dimension-driven data analysis on large data sets** (with Elin Farnell, Michael Kirby, and Chris Peterson) submitted.
 
+2. **Too many secants: Too many secants: a hierarchical approach to secant-based dimensionality reduction on large data sets** (with Elin Farnell, Michael Kirby, and Chris Peterson) accepted to IEEE High Performance Extreme Computing Conference September 2018. [ArXiv version](https://arxiv.org/abs/1808.01686)
 
-2. **A GPU-oriented algorithm design for secant-based dimensionality reduction** (with Elin Farnell, Michael Kirby, and Chris Peterson) to appear in the Proceedings of the 17th IEEE International Symposium on Parallel and Distributed Computing. [ArXiv version](https://arxiv.org/abs/1807.03425)
+3. **A GPU-oriented algorithm design for secant-based dimensionality reduction** (with Elin Farnell, Michael Kirby, and Chris Peterson) to appear in the Proceedings of the 17th IEEE International Symposium on Parallel and Distributed Computing. [ArXiv version](https://arxiv.org/abs/1807.03425)
 
 | ![pumpkin images projection](Pumpkin_Proj_SAP_Reel1ColorPCA2.png) |
 |:--:|
@@ -21,7 +22,7 @@ My papers include:
 |:--:| 
 | *The images corresponding to the two extreme points circled in red.* |
 
-1. **Endmember extraction on the Grassmannian** (with Elin Farnell, Michael Kirby, and Chris Peterson) to appear in the Proceedings of the 2018 IEEE Data Science Workshop. [ArXiv version](https://arxiv.org/abs/1807.01401)
+4. **Endmember extraction on the Grassmannian** (with Elin Farnell, Michael Kirby, and Chris Peterson) to appear in the Proceedings of the 2018 IEEE Data Science Workshop. [ArXiv version](https://arxiv.org/abs/1807.01401)
 
 | ![Indian_pines_endmembers](IP_Grassmannian_embedding.png) |
 |:--:|
