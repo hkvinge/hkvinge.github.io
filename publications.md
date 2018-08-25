@@ -12,6 +12,7 @@ permalink: /publications/
 3. **A GPU-oriented algorithm design for secant-based dimensionality reduction** (with Elin Farnell, Michael Kirby, and Chris Peterson) to appear in the Proceedings of the 17th IEEE International Symposium on Parallel and Distributed Computing. [ArXiv version](https://arxiv.org/abs/1807.03425)
 
 4. **Endmember extraction on the Grassmannian** (with Elin Farnell, Michael Kirby, and Chris Peterson) 2018 IEEE Data Science Workshop (DSW), Lausanne, Switzerland, 2018, pp. 71-75. DOI: 10.1109/DSW.2018.8439109. [ArXiv version](https://arxiv.org/abs/1807.01401), [IEEEexplore](https://ieeexplore.ieee.org/document/8439109/)
+
 ### Representation theory and combinatorics
 
 1. **The center of the twisted Heisenberg category, factorial Schur Q-functions, and transition functions on the Schur graph** (with Can Ozan Oguz and Michael Reeks) [arXiv:1712.09626](https://arxiv.org/abs/1712.09626). Extended abstract to appear in Sem. Lothar. Combin. 
