@@ -5,7 +5,7 @@ permalink: /publications/
 ---
 ### Data science and applied math
 
-1. **Monitoring the shape of weather, soundscapes, and dynamical systems: a new statistic for dimension-driven data analysis on large data sets** (with Elin Farnell, Michael Kirby, and Chris Peterson) submitted.
+1. **Monitoring the shape of weather, soundscapes, and dynamical systems: a new statistic for dimension-driven data analysis on large data sets** (with Elin Farnell, Michael Kirby, and Chris Peterson) submitted to 2018 IEEE International Conference on Big Data, Seattle.
 
 2. **Too many secants: Too many secants: a hierarchical approach to secant-based dimensionality reduction on large data sets** (with Elin Farnell, Michael Kirby, and Chris Peterson) accepted to IEEE High Performance Extreme Computing Conference September 2018. [ArXiv version](https://arxiv.org/abs/1808.01686)
 

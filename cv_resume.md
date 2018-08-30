@@ -4,8 +4,7 @@ title: CV/Resume
 permalink: /cv_resume/
 ---
 
-For a summary of my research, publications, presentations, and teaching, see my
-my current CV.
+For a summary of my research, publications, presentations, and teaching, see my current CV.
 
 [Current CV](HKvingeCV.pdf) (last updated: 8/28/2018)
 

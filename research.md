@@ -8,7 +8,7 @@ permalink: /research/
 
 ![illumination_space](Pumpkin_Proj_SAP_Reel1ColorPCA.png)
 
-I am interested in geometric and topological data analysis, machine learning, compressive sensing, and applied optimization. More generally I like developing techniques that extract the maximum amount of information from high-dimensional, complicated data sets. I am particularly interested in:
+I am interested in geometric and topological data analysis, pattern analysis on complex data sets, machine learning, compressive sensing, and applied optimization. I am particularly interested in:
 
 * Dimensionality reduction algorithms
 * Anomaly detection and other techniques for monitoring large data sets
