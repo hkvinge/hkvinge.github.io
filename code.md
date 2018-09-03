@@ -4,8 +4,6 @@ title: Code
 permalink: /code/
 ---
 
-## Code
-
 I am in the process of cleaning up code from various projects and moving it to Github. Expect more to appear here over the course of the next few months.
 
 Below is code for some of our recent papers:
