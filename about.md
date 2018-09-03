@@ -11,7 +11,6 @@ I am a postdoctoral fellow in the Department of Mathematics at Colorado State Un
 As a graduate student I worked on problems related to representation theory, algebraic combinatorics, and categorification. I still do work on these subjects but I now also work on problems related to geometric data analysis and machine learning.
 
  
-My [CV](HKvingeCV.pdf)
 
 
 
