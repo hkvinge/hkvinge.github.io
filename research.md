@@ -16,6 +16,10 @@ I am interested in geometric and topological data analysis, pattern analysis on 
 
 See my [publications page](publications.md) for a list of my papers. 
 
+Selected presentation slides:
+
+1. [Too many secants: a hierarchical approach to secant-based dimensionality reduction on large data sets](HKvingeHPEC2018.pdf) 2018 IEEE High Performance and Extreme Computing.
+
 ## Representation theory and combinatorics
 
 ![Heisenberg category_eq](diagramimage3.png)
