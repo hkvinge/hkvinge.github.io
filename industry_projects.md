@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Industry projects
-permalink: /about/
+permalink: /industryprojects/
 ---
 
 I have been a contributor to a number of industry projects:
