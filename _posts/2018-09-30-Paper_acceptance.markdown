@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Paper 'The center of the twisted Heisenberg category, factorial Schur *Q*-functions, and transition functions on the Schur graph' accepted for publication in the journal Algebraic Combinatorics"
-data: 2018-30-09 22:00:00
+data: 2018-09-30 22:00:00
 categories: jekyll update
 ---
 
