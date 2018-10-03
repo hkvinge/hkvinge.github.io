@@ -33,7 +33,7 @@ I work on problems related to representation theory, algebraic Lie theory, algeb
 
 See my [publications page](publications.md) for a list of my papers.
 
-My representation theory oriented [research statement](research_statement_rep_theory.pdf)
+My representation theory oriented [research statement](Rep-theory_research_statement.pdf)
 
 Selected presentation slides:
 
