@@ -33,6 +33,8 @@ I work on problems related to representation theory, algebraic Lie theory, algeb
 
 See my [publications page](publications.md) for a list of my papers.
 
+My representation theory oriented [research statement](research_statement_rep_theory.pdf)
+
 Selected presentation slides:
 
 1. [Khovanov's Heisenberg category, moments in free probability, and shifted symmetric functions](UVApresentation2017.pdf) for University of Virginia Algebra Seminar, 2017,
