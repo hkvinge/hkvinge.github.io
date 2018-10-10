@@ -4,6 +4,8 @@ title: Teaching
 permalink: /teaching/
 ---
 
+My [teaching statement](Teaching_statement_2018.pdf).
+
 # Fall 2018
 
 [Math 417 - Advanced Calculus](math417fall2018.html)
