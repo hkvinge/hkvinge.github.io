@@ -5,7 +5,7 @@ permalink: /publications/
 ---
 ### Data science and applied math
 
-1. Henry Kvinge, Elin Farnell, Michael Kirby, and Chris Peterson, **Monitoring the shape of weather, soundscapes, and dynamical systems: a new statistic for dimension-driven data analysis on large data sets**, submitted to 2018 IEEE International Conference on Big Data, Seattle.
+1. Henry Kvinge, Elin Farnell, Michael Kirby, and Chris Peterson, **Monitoring the shape of weather, soundscapes, and dynamical systems: a new statistic for dimension-driven data analysis on large data sets**, accepted to the 2018 IEEE International Conference on Big Data, Seattle.
 
 2. Henry Kvinge, Elin Farnell, Michael Kirby, and Chris Peterson, 
 **Too many secants: a hierarchical approach to secant-based dimensionality reduction on large data sets**, 
