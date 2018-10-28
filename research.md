@@ -37,7 +37,9 @@ My representation theory oriented [research statement](Rep-theory_research_state
 
 Selected presentation slides:
 
-1. [Khovanov's Heisenberg category, moments in free probability, and shifted symmetric functions](UVApresentation2017.pdf) for University of Virginia Algebra Seminar, 2017,
+1. [Heisenberg categories, towers of algebras, and up/down transition functions](UVA2018Kvinge.pdf) for Workshop in representation theory, combinatorics, and geometry, October 2018.
 
-2. [The Kirillov-Reshetikhin crystal B^{1,1} and cyclotomic quiver Hecke algebras](CUBoulder2017.pdf) for University of Colorado Algebraic Lie Theory Seminar, 2017.
+2. [Khovanov's Heisenberg category, moments in free probability, and shifted symmetric functions](UVApresentation2017.pdf) for University of Virginia Algebra Seminar, 2017,
+
+3. [The Kirillov-Reshetikhin crystal B^{1,1} and cyclotomic quiver Hecke algebras](CUBoulder2017.pdf) for University of Colorado Algebraic Lie Theory Seminar, 2017.
 

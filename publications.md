@@ -20,6 +20,8 @@ accepted to IEEE High Performance Extreme Computing Conference September 2018. [
 
 ### Representation theory and combinatorics
 
+1. **Coherent systems of probability measures on graphs for representations of free Frobenius towers**, ArXiv:(coming Monday). [PDF]("Coherent_sys_and_Frob_towers.pdf").
+
 1. **The center of the twisted Heisenberg category, factorial Schur Q-functions, and transition functions on the Schur graph** 
 (with Can Ozan Oguz and Michael Reeks) to appear in the Journal of Algebraic Combinatorics ([arXiv:1712.09626](https://arxiv.org/abs/1712.09626)). <br/><br/>Extended abstract in Sem. Lothar. Combin. 80B (2018), Art. 76, 12pp (Conference proceedings from FPSAC 2018) [pdf](https://www.mat.univie.ac.at/~slc/wpapers/FPSAC2018/FPSAC2018.html). 
 
