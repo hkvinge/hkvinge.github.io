@@ -1,0 +1,25 @@
+---
+layout: post
+title: "New paper: 'Coherent systems of probability measures on graphs for representations of free Frobenius towers'.
+data: 2018-09-30 22:00:00
+categories: jekyll update
+---
+
+I have submitted a new paper to the ArXiv, "Coherent systems of probability measures on graphs for representations of free Frobenius towers." The idea is to try to understand how to generalize
+ a framework encountered frequently in asymptotic representation theory where one has a sequence of
+ probability measures on gagets that index the simple representations of a tower of algebras and which respect certain down/up transition functions.
+This is called a *coherent system*. A frequently encountered example of this is given by Young diagrams
+with the sequence of Plancherel measures and down/up transition functions defined via induction and restriction functors applied to simple representations of symmetric groups.
+
+It turns out that what one needs for a similar construction to work for a more general tower of algebras is for induction and restriction to be biadjoint functors. 
+Thus the correct setting to work in is a tower of algebras in which each algebra is the 
+Frobenius extension of the one below it (a Frobenius tower). 
+If we addtionally make some freeness assumptions between the algebras, 
+the formulas for the down/up transition probabilities are quite nice.
+Interestingly, we do not need to make any assumptions about the semisimplicity
+of our algebras and when the algebras are not semisimple then we actually get
+two coherent systems: one in which up transition is controlled by dimensions of
+simples and down transition is controlled by dimensions of indecomposable projectives
+and one in which the opposite is true. 
+
+Finally, for one of these choices of coherent system, we can find two families of central elements which are essentially moments for the corresponding up and down transitions measures.  
