@@ -16,6 +16,8 @@ I am interested in geometric and topological data analysis, pattern analysis on 
 
 See my [publications page](publications.md) for a list of my papers. 
 
+My data-science oriented [research statement](DS-research_statement.pdf).
+
 Selected presentation slides:
 
 1. [Too many secants: a hierarchical approach to secant-based dimensionality reduction on large data sets](HKvingeHPEC2018.pdf) 2018 IEEE High Performance and Extreme Computing.
