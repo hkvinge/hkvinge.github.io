@@ -1,0 +1,24 @@
+---
+layout: post
+title: "New paper: 'Letting symmetry guide visualization: multidimensional scaling on groups'"
+data: 2018-11-19 9:00:00
+categories: jekyll update
+---
+
+Mark Blumstein and myself have submitted a new paper "Letting symmetry guide visualization: multidimensional scaling on groups". 
+Multidimensional scaling is a fundamental algorithm that essentially serves two purposes: (i) visualization of points from an abstract metric space in Euclidean space, (ii) dimensionality reduction. 
+It was observed by [Lara Kassab](https://larakassab.weebly.com/) and [Henry Adams](http://www.math.colostate.edu/~adams/) that when one takes n evenly spaced points on the circle, uses the standard 
+metric for the distance between points on the circle (based on angle), 
+and applies MDS, the resulting output is the Fourier modes. 
+These also developed a way to describe MDS in terms of an 
+operator on an appropriate dual space.
+
+My co-author [Mark Blumstein](http://www.math.colostate.edu/~blumstei/) came in and showed that when one has a group action on the 
+original metric space and the metric is invariant with respect to this action, 
+then the MDS operator commutes with the group action. 
+The consequence of this is that eigenspaces of the MDS operator, 
+which define the embedding into Euclidean space, are representations 
+of the group. As a consequence of this, we show that applying MDS 
+in this case is "almost" equivalent to decomposing the dual space representation into irreducible representations of the group. 
+
+There are a lot of further directions to go with this work. I think that, aside from the groundbreaking work done by Diaconis, and some more recent work by Kondor, representation theory has been under-utilized in data science. We hope to write some follow-up papers along the lines of this one to tackle specific groups, and eventually tackle actions by compact Lie groups.
