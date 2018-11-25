@@ -5,7 +5,7 @@ data: 2018-11-19 9:00:00
 categories: jekyll update
 ---
 
-Mark Blumstein and myself have submitted a new paper ["Letting symmetry guide visualization: multidimensional scaling on groups"](MDS_on_groups.pdf). 
+Mark Blumstein and myself have submitted a new paper [Letting symmetry guide visualization: multidimensional scaling on groups](MDS_on_groups.pdf). 
 Multidimensional scaling is a fundamental algorithm that essentially serves two purposes: (i) visualization of points from an abstract metric space in Euclidean space, (ii) dimensionality reduction. 
 It was observed by [Lara Kassab](https://larakassab.weebly.com/) and [Henry Adams](http://www.math.colostate.edu/~adams/) that when one takes n evenly spaced points on the circle, uses the standard 
 metric for the distance between points on the circle (based on angle), 
