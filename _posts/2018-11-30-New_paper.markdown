@@ -8,7 +8,9 @@ categories: jekyll update
 Ian Holmes Kessler and [James Wilson](http://www.math.colostate.edu/~jwilson/) and I just submitted a new paper 'A Frobenius-Schreier-Sims Algorithm to tensor decompose algebras' to a special edition of the Journal of Algebra. 
 The idea is that computing with large algebras is hard. 
 In fact, even calculating the dimension of an algebra from a set of generators is particularly hard when the algebra is large.
-We describe an algorithm that takes as input the generators of an algeba *A* and a representation of that algebra and then gives a vector space episomorphism from a tensor product of vector spaces (built by decomposing *M*) to *A*. 
+We describe an algorithm that takes as input the generators of an algeba *A* and a representation of that algebra *M* and then gives a vector space episomorphism from a tensor product of vector spaces (built by decomposing *M*) to *A*. 
 Among other things this gives an upper bound on the dimension of *A*.
 
-The algorithm is a generalization of the classical Schreier-Sims algorithm and draws on an observation that much of the Schreier-Sims algorithm that be reframed as a special application of Frobenius-Reciprocity. This connection between induction and restriction functors and computational algebra is interesting and we hope to push this idea further in the future.
+The algorithm is a generalization of the classical Schreier-Sims algorithm and draws on an observation that much of the Schreier-Sims algorithm can 
+be reframed as a special application of Frobenius-Reciprocity. 
+This connection between induction and restriction functors and computational algebra is interesting and we hope to push this idea further in the future.
