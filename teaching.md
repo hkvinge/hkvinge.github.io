@@ -18,4 +18,6 @@ Math 145 - Combinatorics (At UC Davis)
 
 Math 17B - Calculus for Biology and Medicine (At UC Davis)
 
+### Undegraduate research
+
 Undergraduate research is important to me. I am currently working with some undergraduates on a low-resolution face recognition [project](https://github.com/hkvinge/CSU-low-res-face-recognition). I am working with another student on a [project](https://github.com/lauranolt1/Image-Reconstruction) related to image processing.
