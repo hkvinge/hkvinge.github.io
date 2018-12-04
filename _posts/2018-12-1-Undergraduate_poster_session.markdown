@@ -13,5 +13,6 @@ Laura Nolt will be presenting a poster for a [project](https://github.com/lauran
 Finally, Joshua de Jong will be presenting a poster in which he explains some of the basics of representation theory (particularly character theory).
 
 Location: North Ballroom of the LSC
+
 Time: 9:30-12:00, December 6th.
 
