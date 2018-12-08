@@ -9,7 +9,7 @@ permalink: /publications/
 
 2. Henry Kvinge, Elin Farnell, Michael Kirby, and Chris Peterson, **Monitoring the shape of weather, soundscapes, and dynamical systems: a new statistic for dimension-driven data analysis on large data sets**, accepted to the 2018 IEEE International Conference on Big Data, Seattle. [ArXiv version](https://arxiv.org/abs/1810.11562)
 
-3.  Henry Kvinge, Elin Farnell, Michael Kirby, and Chris Peterson, **Too many secants: a hierarchical approach to secant-based dimensionality reduction on large data sets**, 2018 IEEE High Performances Extreme Computing Conference (HPEC), Waltham, MA, USA, 2018, pp. 1-7. doi: 10.1109/HPEC.2018.8547515. [IEEE Xplore](https://ieeexplore.ieee.org/document/8547515), [ArXiv version](https://arxiv.org/abs/1808.01686)
+3.  Henry Kvinge, Elin Farnell, Michael Kirby, and Chris Peterson, **Too many secants: a hierarchical approach to secant-based dimensionality reduction on large data sets**, 2018 IEEE High Performances Extreme Computing Conference (HPEC), Waltham, MA, USA, 2018, pp. 1-7. DOI: 10.1109/HPEC.2018.8547515. [IEEE Xplore](https://ieeexplore.ieee.org/document/8547515), [ArXiv version](https://arxiv.org/abs/1808.01686)
 
 4. Henry Kvinge, Elin Farnell, Michael Kirby, and Chris Peterson, **A GPU-oriented algorithm design for secant-based dimensionality reduction**
 2018 17th IEEE International Symposium on Parallel and Distributed Computing(ISPDC), 2018,
