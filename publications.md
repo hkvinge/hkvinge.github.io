@@ -5,7 +5,7 @@ permalink: /publications/
 ---
 ### Data science and applied math
 
-1. Henry Kvinge and Mark Blumstein, **Letting symmetry guide visualization: multidimensional scaling on groups**, submitted to CVPR 2019.
+1. Henry Kvinge and Mark Blumstein, **Letting symmetry guide visualization: multidimensional scaling on groups**, submitted. [ArXiv:1812.03362](https://arxiv.org/abs/1812.03362)
 
 2. Henry Kvinge, Elin Farnell, Michael Kirby, and Chris Peterson, **Monitoring the shape of weather, soundscapes, and dynamical systems: a new statistic for dimension-driven data analysis on large data sets**, accepted to the 2018 IEEE International Conference on Big Data, Seattle. [ArXiv:1810.11562](https://arxiv.org/abs/1810.11562)
 
@@ -20,7 +20,7 @@ permalink: /publications/
 
 ### Representation theory and combinatorics
 
-1. **A Frobenius-Schreier-Sims Algorithm to tensor decompose algebras**, submitted to Journal of Algebra.
+1. **A Frobenius-Schreier-Sims Algorithm to tensor decompose algebras**, submitted to Journal of Algebra, [ArXiv:1812.03346](https://arxiv.org/abs/1812.03346)
 
 2. **Coherent systems of probability measures on graphs for representations of free Frobenius towers**, [ArXiv:1810.11555](https://arxiv.org/abs/1810.11555).
 
