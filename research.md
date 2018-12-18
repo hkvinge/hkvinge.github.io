@@ -20,7 +20,9 @@ My data-science oriented [research statement](DS-research_statement.pdf).
 
 Selected presentation slides:
 
-1. [Too many secants: a hierarchical approach to secant-based dimensionality reduction on large data sets](HKvingeHPEC2018.pdf) 2018 IEEE High Performance and Extreme Computing.
+1. [Monitoring the shape of weather, soundscapes, and dynamical systems: a new statistic for dimension-driven data analysis on large datasets](HKvinge_BigData_2018_short.pdf) 2018 IEEE International Conference on Big Data, Seattle WA.
+
+2. [Too many secants: a hierarchical approach to secant-based dimensionality reduction on large data sets](HKvingeHPEC2018.pdf) 2018 IEEE High Performance and Extreme Computing, Waltham MA.
 
 ## Representation theory and combinatorics
 
