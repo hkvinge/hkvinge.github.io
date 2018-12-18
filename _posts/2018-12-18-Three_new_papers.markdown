@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Three new abstracts accepted to *SPIE: Defense + Commercial Sensing*"
+title: "Three new abstracts accepted to 'SPIE: Defense + Commercial Sensing'"
 data: 2018-12-18 9:00:00
 categories: jekyll update
 ---
