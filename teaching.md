@@ -6,6 +6,10 @@ permalink: /teaching/
 
 My [teaching statement](Teaching_statement_2018.pdf).
 
+# Spring 2019
+
+[Math 369 - Linear algebra](math369spring2019.html)
+
 # Fall 2018
 
 [Math 417 - Advanced Calculus](math417fall2018.html)
