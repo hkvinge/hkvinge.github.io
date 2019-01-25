@@ -13,7 +13,7 @@ they often have other geometric properties that can distinguish them.
 The *kappa*-profile can often detect these differences and use them
 to estimate which class an unlabeled point belongs to.
 The algorithm works very well on synthetic data where the two different
-classes are drawn from manifolds of different dimensions. It also is effect 
+classes are drawn from manifolds of different intrinsic dimension. It also is effect 
 for detecting rare category points for at least one class in the Ecoli dataset.
 
 
