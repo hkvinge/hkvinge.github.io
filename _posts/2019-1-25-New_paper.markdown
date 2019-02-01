@@ -17,4 +17,4 @@ classes are drawn from manifolds of different intrinsic dimension. It also is ef
 for detecting rare category points for at least one class in the Ecoli dataset.
 
 
-Here is a link to the arXiv preprint (coming soon) and here is a link to the code on GitHub (coming soon).
+Here is a link to the [arXiv preprint](https://arxiv.org/abs/1901.10585) and here is a link to the code on GitHub (coming soon).
