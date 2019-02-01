@@ -13,6 +13,6 @@ but also things that we can experience in 3-dimensions. As hyperspectral data is
 challenging to analyze, it seems reasonable to try to understand it in VR. The preliminary results (as reported in  the paper)
 are that VR is a very promising tool for this application. Below is a picture of the Indian Pines data set as viewed in VR.
 
-![alt text](IP_partial_cube)
+![alt text](IP_partial_cube.png)
 
 I will try to get this on the ArXiv soon.
