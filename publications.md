@@ -24,7 +24,7 @@ permalink: /publications/
 9. Henry Kvinge, Elin Farnell, Michael Kirby, and Chris Peterson, **A GPU-oriented algorithm design for secant-based dimensionality reduction**
 2018 17th IEEE International Symposium on Parallel and Distributed Computing(ISPDC), 2018,
 67-76. DOI: 10.1109/ISPDC2018.2018.00019.
- [IEEEXplore](https://ieeXplore.ieee.org/document/8452022/), [ArXiv:1807.03425](https://arxiv.org/abs/1807.03425)
+ [IEEEXplore](https://ieeXplore.ieee.org/document/8452022/), [ArXiv:1807.03425](https://arxiv.org/abs/1807.03425), [Code](https://github.com/hkvinge/Secant-avoidance-projection-algorithm)
 
 10. Elin Farnell, Henry Kvinge, Michael Kirby, and Chris Peterson, **Endmember extraction on the Grassmannian**, 2018 IEEE Data Science Workshop (DSW), Lausanne, Switzerland, 2018, pp. 71-75. DOI: 10.1109/DSW.2018.8439109. [IEEEXplore](https://ieeXplore.ieee.org/document/8439109/), [ArXiv:1807.01401](https://arxiv.org/abs/1807.01401)
 
