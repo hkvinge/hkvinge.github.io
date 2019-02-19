@@ -39,6 +39,6 @@ permalink: /publications/
 
 4. **Khovanov's Heisenberg category, moments in free probability, and shifted symmetric functions** (with Anthony Licata an Stuart Mitchell), Algebraic Combinatorics 2.1 (2019): 49-74. [Algebraic combinatorics](https://alco.centre-mersenne.org/item/ALCO_2019__2_1_49_0/), [ArXiv:1610.04571](https://arxiv.org/abs/1610.04571)<br/><br/>Extended abstract in Sem. Lothar. Combin. 78B (2017), Art. 63, 12pp (Conference proceedings from FPSAC 2017) [PDF](https://www.mat.univie.ac.at/~slc/wpapers/FPSAC2017/FPSAC2017.html).
 
-5. **A Combinatorial Categorification of the Tensor Product of the Kirillov-Reshetikhin Crystal B^{1,1} and a Fundamental Crystal** (with Monica Vazirani) Algebr. Represent. Theory 21 (2018), no. 6, pp 1277-1331. [PDF](https://link.springer.com/article/10.1007/s10468-017-9747-3), [ArXiv:1508.04182](https://arxiv.org/abs/1508.04182)).<br/><br/>Extended abstract in DMTCS proc. BC, 2016, 719-730 (Conference proceedings from FPSAC 2016) [PDF](https://fpsac2016.sciencesconf.org/browse/author).
+5. **A Combinatorial Categorification of the Tensor Product of the Kirillov-Reshetikhin Crystal B^{1,1} and a Fundamental Crystal** (with Monica Vazirani) Algebr. Represent. Theory 21 (2018), no. 6, pp 1277-1331. [Algebras and representation theory](https://link.springer.com/article/10.1007/s10468-017-9747-3), [ArXiv:1508.04182](https://arxiv.org/abs/1508.04182)).<br/><br/>Extended abstract in DMTCS proc. BC, 2016, 719-730 (Conference proceedings from FPSAC 2016) [PDF](https://fpsac2016.sciencesconf.org/browse/author).
 
 
