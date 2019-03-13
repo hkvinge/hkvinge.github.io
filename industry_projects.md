@@ -12,11 +12,13 @@ I have been a contributor to a number of industry projects:
     - Designing and testing CS reconstruction algorithms.
     - Producing a software package for use in devices operating in the field.
 
+
 2. (July 2017-September 2018) **Compressive Sensing Flash IR 3D Imager**: In collaboration with industrial partner, Physical Sciences Inc. we are developing a compact infrared flash 3D imaging sensor employing compressive sensing (CS) approaches. The single pixel architecture will enable significant size, weight, power, and cost reduction relative to emerging flash LADAR systems employing a high speed avalanche photodiode APD array. My major contributions to this project include:
 
 
     - Designing and testing CS reconstruction algorithms.
     - Implementing all algorithms and producing a software package for use in devices operating in the field. 
+
 
 3. (June-July 2016) **Mathematical prediction of physician triage of asthma via machine learning techniques for Revon Systems, Inc.**: This was the capstone project for the IMA (Institute for Mathematics and its Applications) Math-to-Industry Boot Camp that I attended. Our industry mentor was the chief data scientist from Revon Systems. We used machine learning techniques to build an algorithm that predicted physician triage decisions for patients with chronic asthma. 
  
