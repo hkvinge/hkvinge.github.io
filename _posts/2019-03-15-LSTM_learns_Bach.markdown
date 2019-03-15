@@ -7,4 +7,4 @@ categories: jekyll update
 
 Over the last few weeks I have been learning about LSTM networks. These are a family of recurrent neural networks that are useful for various learning tasks involving time series. We would like to use these networks in some of the work we have been doing on healthcare telemetry data and its relation to variation in immune response. But as a fun project to get a better understanding of this tool, I wrote code to train an LSTM on midi files of Bach's chorales (I believe the LSTM trained on approximately 200).  
 
-You can (listen)[https://soundcloud.com/user-105394224/an-lstm-wanders-off-on-a-bach] to some output of the network. It is a still a little rough (you can hear many positions where the LSTM misses a note) but I intend to continue to refine the model to get something interesting.
+You can [listen](https://soundcloud.com/user-105394224/an-lstm-wanders-off-on-a-bach) to some output of the network. It is a still a little rough (you can hear many positions where the LSTM misses a note) but I intend to continue to refine the model to get something interesting.
