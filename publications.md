@@ -5,7 +5,7 @@ permalink: /publications/
 ---
 ### Data science and applied math
 
-1. Henry Kvinge, Michael Kirby, Chris Peterson, Chad Eitel, and Tod Clapp, **A walk through spectral bands: Using virtual reality to better visualize hyperspectral data**, submitted to the 13th International Workshop on Self-Organizing Maps and Learning Vector Quantization, Clustering and Data Visualization.
+1. Henry Kvinge, Michael Kirby, Chris Peterson, Chad Eitel, and Tod Clapp, **A walk through spectral bands: Using virtual reality to better visualize hyperspectral data**, to appear in the 13th International Workshop on Self-Organizing Maps and Learning Vector Quantization, Clustering and Data Visualization.
 
 2. Henry Kvinge and Elin Farnell, **Rare geometries: revealing rare categories via dimension-driven statistics**, submitted. [ArXiv:1901.10585](https://arxiv.org/abs/1901.10585).
 
