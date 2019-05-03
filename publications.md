@@ -5,15 +5,19 @@ permalink: /publications/
 ---
 ### Data science and applied math
 
-1. Henry Kvinge, Michael Kirby, Chris Peterson, Chad Eitel, and Tod Clapp, **A walk through spectral bands: Using virtual reality to better visualize hyperspectral data**, to appear in the 13th International Workshop on Self-Organizing Maps and Learning Vector Quantization, Clustering and Data Visualization.
+1. Henry Kvinge, Michael Kirby, Chris Peterson, Chad Eitel, and Tod Clapp, **A walk through spectral bands: Using virtual reality to better visualize hyperspectral data**, In International Workshop on Self-Organizing Maps (pp. 160-165). Springer, Cham. [Springer](https://link.springer.com/chapter/10.1007/978-3-030-19642-4_16)
 
 2. Henry Kvinge and Elin Farnell, **Rare geometries: revealing rare categories via dimension-driven statistics** [ArXiv:1901.10585](https://arxiv.org/abs/1901.10585).
 
-3. Henry Kvinge, Elin Farnell, Michael Kirby, and Chris Peterson, **More chemical detection through less sampling: amplifying chemical signals in hyperspectral data cubes through compressive sensing**, to appear in SPIE: Defense + Commercial Sensing, (2019).
+<!--- 3. Henry Kvinge, Elin Farnell, Michael Kirby, and Chris Peterson, **More chemical detection through less sampling: amplifying chemical signals in hyperspectral data cubes through compressive sensing**, to appear in SPIE: Defense + Commercial Sensing, (2019).
+-->
 
-4. Elin Farnell, Henry Kvinge, Michael Kirby, and Chris Peterson, **A data-driven approach to sampling matrix selection for compressive sensing**, to appear in SPIE: Defense + Commercial Sensing, (2019).
+<!--- 4. Elin Farnell, Henry Kvinge, Michael Kirby, and Chris Peterson, **A data-driven approach to sampling matrix selection for compressive sensing**, to appear in SPIE: Defense + Commercial Sensing, (2019).
+-->
 
-5. Elin Farnell, Henry Kvinge, Michael Kirby, and Chris Peterson, **Total Variation vs L1-regularization: A Comparison of Compressive Sensing Optimization Methods for Chemical Detection**, to appear in SPIE: Defense + Commercial Sensing, (2019).
+<!--- 5. Elin Farnell, Henry Kvinge, Michael Kirby, and Chris Peterson, **Total Variation vs L1-regularization: A Comparison of Compressive Sensing Optimization Methods for Chemical Detection**, to appear in SPIE: Defense + Commercial Sensing, (2019).
+-->
+
 
 6. Henry Kvinge and Mark Blumstein, **Letting symmetry guide visualization: multidimensional scaling on groups**, submitted. [ArXiv:1812.03362](https://arxiv.org/abs/1812.03362)
 
@@ -32,7 +36,7 @@ permalink: /publications/
 
 1. **A Frobenius-Schreier-Sims Algorithm to tensor decompose algebras**, submitted to Journal of Algebra. [ArXiv:1812.03346](https://arxiv.org/abs/1812.03346)
 
-2. **Coherent systems of probability measures on graphs for representations of free Frobenius towers**. [ArXiv:1810.11555](https://arxiv.org/abs/1810.11555).
+2. **Coherent systems of probability measures on graphs for representations of free Frobenius towers**, submitted to Communications in Mathematical Physics, [ArXiv:1810.11555](https://arxiv.org/abs/1810.11555).
 
 3. **The center of the twisted Heisenberg category, factorial Schur Q-functions, and transition functions on the Schur graph** 
 (with Can Ozan Oguz and Michael Reeks) to appear in the Journal of Algebraic Combinatorics. ([ArXiv:1712.09626](https://arxiv.org/abs/1712.09626)) <br/><br/>Extended abstract in Sem. Lothar. Combin. 80B (2018), Art. 76, 12pp (Conference proceedings from FPSAC 2018) [PDF](https://www.mat.univie.ac.at/~slc/wpapers/FPSAC2018/FPSAC2018.html). 
