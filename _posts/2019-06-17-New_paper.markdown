@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "New paper: A better understanding of reactions to infection in mice through changes in temperature patterns"
+date:   2019-06-17 18:00:00 -0700
+categories: jekyll update
+---
+
+Body temperature is a classic vital sign for determining the health of an organism. In this paper we study how tools from geometric data analysis and machine learning can be used to better understand the variety of reactions to infection in mice. The abstract is:
+
+"In an era where it is becoming easier and easier to collect vast amounts of telemetry information on a large population of organisms, the ability to extract meaningful information from this data has become increasingly important. In this paper, we address the problem of how one can better understand whether susceptibility, or tolerance to infection can be predicted from temperature time series data. We draw on a broad range of tools from from machine learning and geometric data analysis. "
