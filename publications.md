@@ -11,6 +11,16 @@ permalink: /publications/
 
 3. Henry Kvinge and Elin Farnell, **Rare geometries: revealing rare categories via dimension-driven statistics** [ArXiv:1901.10585](https://arxiv.org/abs/1901.10585).
 
+<!--- 3. Henry Kvinge, Elin Farnell, Michael Kirby, and Chris Peterson, **More chemical detection through less sampling: amplifying chemical signals in hyperspectral data cubes through compressive sensing**, to appear in SPIE: Defense + Commercial Sensing, (2019).
+-->
+
+<!--- 4. Elin Farnell, Henry Kvinge, Michael Kirby, and Chris Peterson, **A data-driven approach to sampling matrix selection for compressive sensing**, to appear in SPIE: Defense + Commercial Sensing, (2019).
+-->
+
+<!--- 5. Elin Farnell, Henry Kvinge, Michael Kirby, and Chris Peterson, **Total Variation vs L1-regularization: A Comparison of Compressive Sensing Optimization Methods for Chemical Detection**, to appear in SPIE: Defense + Commercial Sensing, (2019).
+-->
+
+
 4. Henry Kvinge and Mark Blumstein, **Letting symmetry guide visualization: multidimensional scaling on groups**, submitted. [ArXiv:1812.03362](https://arxiv.org/abs/1812.03362)
 
 5. Henry Kvinge, Elin Farnell, Michael Kirby, and Chris Peterson, **Monitoring the shape of weather, soundscapes, and dynamical systems: a new statistic for dimension-driven data analysis on large data sets**, accepted to the 2018 IEEE International Conference on Big Data, Seattle. [IEEE Xplore](https://ieeexplore.ieee.org/document/8622365), [ArXiv:1810.11562](https://arxiv.org/abs/1810.11562)
