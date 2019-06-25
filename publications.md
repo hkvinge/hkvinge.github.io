@@ -5,7 +5,7 @@ permalink: /publications/
 ---
 ### Data science and applied math
 
-1. Elin Farnell, Henry Kvinge, Michael Kirby, and Chris Peterson, **A data-driven approach to sampling matrix selection for compressive sensing**, to appear in SPIE: Defense + Commercial Sensing, (2019).
+1. Elin Farnell, Henry Kvinge, Michael Kirby, and Chris Peterson, **A data-driven approach to sampling matrix selection for compressive sensing** (2019). [ArXiv:1906.08869](https://arxiv.org/abs/1906.08869)
 
 2. Manuchehr Aminian, Helene Andrews-Polymenis, Michael Kirby, Henry Kvinge, Xiaofeng Ma, Patrick Rosse, David Threadgill, **A better understanding of reactions to infection in mice through changes in temperature patterns**, Submitted.
 
