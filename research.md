@@ -24,12 +24,7 @@ See my [publications page](publications.md) for a list of my papers.
 
 ![Heisenberg category_eq](diagramimage3.png)
 
-I work on problems related to representation theory, algebraic Lie theory, algebraic combinatorics, and categorification. These days I am especially interested in:
-
-* Symmetric groups and related Hecke algebras,
-* Symmetric functions,
-* Quantum groups and crystal combinatorics,
-* Connections between representation theory and probability theory.
+I used to work on problems related to representation theory, algebraic Lie theory, algebraic combinatorics, and categorification:
 
 See my [publications page](publications.md) for a list of my papers.
 
