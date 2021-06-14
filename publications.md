@@ -3,6 +3,9 @@ layout: page
 title: Publications
 permalink: /publications/
 ---
+
+See also my [Google Scholar profile](https://scholar.google.com/citations?user=vfFn_QsAAAAJ&hl=en&oi=ao)
+
 ### Machine learning and data science
 
 1. Scott Mahan, Henry Kvinge, Tim Doster, **Rotating spiders and reflecting dogs: a class conditional approach to learning data augmentation distributions** (2021). Submitted, [arXiv:2106.04009](https://arxiv.org/abs/2106.04009)
