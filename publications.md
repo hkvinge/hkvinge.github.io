@@ -3,7 +3,21 @@ layout: page
 title: Publications
 permalink: /publications/
 ---
-### Data science and applied math
+### Machine learning and data science
+
+1. Scott Mahan, Henry Kvinge, Tim Doster, **Rotating spiders and reflecting dogs: a class conditional approach to learning data augmentation distributions** (2021). Submitted, [arXiv:2106.04009](https://arxiv.org/abs/2106.04009)
+
+2. Henry Kvinge, Scott Howland, Nico Courts, Lauren Phillips, John Buckheit, Zachary New, Elliot Skomski, Jung Lee, Sandeep Tiwari, Jessica Hibler, Courtney Corley, Nathan Hodas, **One Representation to Rule Them All: Identifying Out-of-Support Examples in Few-shot Learning with Generic Representations** (2021). Submitted, [arXiv:2106.01423](One Representation to Rule Them All: Identifying Out-of-Support Examples in Few-shot Learning with Generic Representations)
+
+3. Henry Kvinge, Brett Jefferson, Cliff Joslyn, Emilie Purvine, **Sheaves as a Framework for Understanding and Interpreting Model Fit** (2021). Submitted, [arXiv:2105.10414](https://arxiv.org/abs/2105.10414)
+
+4. Song Feng, Emily Heath, Brett Jefferson, Cliff Joslyn, Henry Kvinge, et. al. **Hypergraph models of biological networks to identify genes critical to pathogenic viral response** (2021), BMC Bioinformatics, Vol 22, pg. 1-21. [arXiv:2010.03068](https://arxiv.org/abs/2010.03068)
+
+5. Elliott Skomski, Aaron Tuor, Andrew Avila, Lauren Phillips, Zachary New, Henry Kvinge, Courtney Corley, Nathan Hodas, **Prototypical Region Proposal Networks for Few-Shot Localization and Classification**, NeurIPS Workshop on Meta-Learning (MetaLearn 2020). [arXiv:2104.03496](https://arxiv.org/abs/2104.03496)
+
+6. Henry Kvinge, Zachary New, Nico Courts, Jung Lee, Lauren Phillips, Courtney Corley, Aaron Tourr, Andrew Avila, Nathan Hodas, **Fuzzy Simplicial Networks: A Topology-Inspired Model to Improve Task Generalization in Few-shot Learning** 2021 AAAI Workshop - MetaLearn Challenges. [arXiv:2009.11253](https://arxiv.org/abs/2009.11253)
+
+7. Sofya Chepushtanova, Elin Farnell, Eric Kehoe, Michael Kirby, Henry Kvinge, "Dimensionality Reduction" from **Data Science for Mathematicians**, Chapman and Hall/CRC, pgs. 291-337, (2020).
 
 1. Elin Farnell, Henry Kvinge, John P. Dixon, Julia R. Dupuis, Michael Kirby, and Chris Peterson, Elizabeth C. Schundler, Christian W. Smith, **A data-driven approach to sampling matrix selection for compressive sensing** (2019). [ArXiv:1906.08869](https://arxiv.org/abs/1906.08869)
 
