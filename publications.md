@@ -22,6 +22,8 @@ See also my [Google Scholar profile](https://scholar.google.com/citations?user=v
 
 7. Sofya Chepushtanova, Elin Farnell, Eric Kehoe, Michael Kirby, Henry Kvinge, "Dimensionality Reduction" from **Data Science for Mathematicians**, Chapman and Hall/CRC, pgs. 291-337, (2020).
 
+8. Lucius Bynum, Tim Doster, Tegan Emerson, Henry Kvinge, **Rotational Equivariance for Object Classification Using xView**, IGARSS 2020-2020 IEEE International Geoscience and Remote Sensing Symposium, pgs. 3684-3687 (2020).
+
 1. Elin Farnell, Henry Kvinge, John P. Dixon, Julia R. Dupuis, Michael Kirby, and Chris Peterson, Elizabeth C. Schundler, Christian W. Smith, **A data-driven approach to sampling matrix selection for compressive sensing** (2019). [ArXiv:1906.08869](https://arxiv.org/abs/1906.08869)
 
 2. Manuchehr Aminian, Helene Andrews-Polymenis, Michael Kirby, Henry Kvinge, Xiaofeng Ma, Patrick Rosse, David Threadgill, **A better understanding of reactions to infection in mice through changes in temperature patterns**, Submitted.
