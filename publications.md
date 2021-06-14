@@ -46,9 +46,9 @@ permalink: /publications/
 
 ### Representation theory and combinatorics
 
-1. **A Frobenius-Schreier-Sims Algorithm to tensor decompose algebras**, submitted to Journal of Algebra. [ArXiv:1812.03346](https://arxiv.org/abs/1812.03346)
+1. **A Frobenius-Schreier-Sims Algorithm to tensor decompose algebras**, [ArXiv:1812.03346](https://arxiv.org/abs/1812.03346)
 
-2. **Coherent systems of probability measures on graphs for representations of free Frobenius towers**, submitted to Communications in Mathematical Physics, [ArXiv:1810.11555](https://arxiv.org/abs/1810.11555).
+2. **Coherent systems of probability measures on graphs for representations of free Frobenius towers**, [ArXiv:1810.11555](https://arxiv.org/abs/1810.11555).
 
 3. **The center of the twisted Heisenberg category, factorial Schur Q-functions, and transition functions on the Schur graph** 
 (with Can Ozan Oguz and Michael Reeks) to appear in the Journal of Algebraic Combinatorics. ([ArXiv:1712.09626](https://arxiv.org/abs/1712.09626)) <br/><br/>Extended abstract in Sem. Lothar. Combin. 80B (2018), Art. 76, 12pp (Conference proceedings from FPSAC 2018) [PDF](https://www.mat.univie.ac.at/~slc/wpapers/FPSAC2018/FPSAC2018.html). 
