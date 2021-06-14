@@ -4,25 +4,21 @@ title: Research
 permalink: /research/
 ---
 
-## Data science and applied math
+## Data science and machine learning
 
-![illumination_space](Pumpkin_Proj_SAP_Reel1ColorPCA.png)
+I am interested in machine learning. In particular, the use of tools from pure mathematics to enable new frameworks, algorithmic architectures, and general approaches to machine learning prroblems. I am especially interested in:
 
-I am interested in geometric and topological data analysis, pattern analysis on complex data sets, machine learning, compressive sensing, and applied optimization. I am particularly interested in:
-
-* Dimensionality reduction algorithms
-* Anomaly detection and other techniques for monitoring large data sets
-* Adapting machine learning algorithms designed for Euclidean space to other manifolds, particularly Grassmannians, flag manifolds, and compact Lie groups.
+* Geometric deep learning, 
+* Few-shot learning,
+* Computer vision
+* Applications of representation to machine learning
+* The use of sheaves and other topological constructions in machine learning,
+* Compressive sensing, 
+* Dimensionality reduction,
+* The use Grassmann and related manifolds as frameworks for machine learning problems.
 
 See my [publications page](publications.md) for a list of my papers. 
 
-My data-science oriented [research statement](DS-research_statement.pdf).
-
-Selected presentation slides:
-
-1. [Monitoring the shape of weather, soundscapes, and dynamical systems: a new statistic for dimension-driven data analysis on large datasets](HKvinge_BigData_2018_short.pdf) 2018 IEEE International Conference on Big Data, Seattle WA.
-
-2. [Too many secants: a hierarchical approach to secant-based dimensionality reduction on large data sets](HKvingeHPEC2018.pdf) 2018 IEEE High Performance and Extreme Computing, Waltham MA.
 
 ## Representation theory and combinatorics
 
