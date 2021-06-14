@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-![Henry Kvinge](IMG_1848.jpeg)
-
 I am a data scientist at Pacific Northwest National Lab. Prior to this I wasa postdoctoral fellow in the Department of Mathematics at Colorado State University where I worked with the [Pattern Analysis Lab](https://sites.google.com/a/rams.colostate.edu/pattern-analysis-lab/). I graduated with a PhD in mathematics from UC Davis in June 2017. My advisor was [Monica Vazirani](https://www.math.ucdavis.edu/~vazirani/).
 
 - As a graduate student I worked on problems related to representation theory, algebraic combinatorics, and categorification. 
