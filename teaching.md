@@ -6,11 +6,11 @@ permalink: /teaching/
 
 # Spring 2019
 
-[Math 369 - Linear algebra](math369spring2019.html)
+Math 369 - Linear algebra
 
 # Fall 2018
 
-[Math 417 - Advanced Calculus](math417fall2018.html)
+Math 417 - Advanced Calculus
 
 # Summer 2016
 
